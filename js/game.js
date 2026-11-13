@@ -763,7 +763,7 @@ function endGame() {
     ctx.font = "bold 36px Arial";
 
     ctx.fillText(
-        "MAMASTE",
+        "perdiste :(",
         canvas.width / 2,
         canvas.height / 2 - 20
     );
